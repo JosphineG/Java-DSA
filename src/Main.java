@@ -1,3 +1,8 @@
+/*
+Josphine Gatwiri SIT/B/01-02268/2021
+Sheila Makena  SIT/B/01-56660/2021
+Hilda Agesa  SIT/B/01-56509/2021
+abigael Kibiwot  SIT/B/01-02282/2021
 public class Main {
     public static void main(String[] args) {
 /*        Mmustlinkedin m = new Mmustlinkedin();
