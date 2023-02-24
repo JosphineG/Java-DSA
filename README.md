@@ -7,7 +7,7 @@
 Time complexity of stack operations: O(1)
 
 #### Authors 
-Josphine Gatwiri 
+Josphine Gatwiri<br/>
 Sheila Makena  
 Hilda Agesa  
-abigael Kibiwot 
+Abigael Kibiwot 
